@@ -2,7 +2,7 @@
 # Appointment Reminders. Powered by Twilio - Node.js/Express
 
 [![Build
-Status](https://travis-ci.org/martenc/avinna-dq-reminder.svg?branch=master)](https://travis-ci.org/TwilioDevEd/appointment-reminders-node)
+Status](https://api.travis-ci.org/martenc/avinna-dq-reminder.svg?branch=master)](https://travis-ci.org/martenc/avinna-dq-reminder)
 
 
 Use Twilio to create automatic appointment reminders for your business users. For a step-by-step tutorial see [twilio docs](https://www.twilio.com/docs/tutorials/walkthrough/appointment-reminders/node/express).
